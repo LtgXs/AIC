@@ -75,5 +75,3 @@ rd /s /q temp%n%
 pause>NUL 2>NUL
 
 exit
-
-::https://api1.cherrylink.me/sub?target=clash&url=https://cherryvpn.net/link/fcAmwQ4EMu7450kt?sub=2
